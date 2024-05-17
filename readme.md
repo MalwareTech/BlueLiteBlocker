@@ -64,5 +64,5 @@ testing.
 
 
 ## Updates
-Follow me on https://twitter.com/BlueLiteBlocker for updates.
+Follow me on https://x.com/BlueLiteBlocker for updates.
  
