@@ -29,12 +29,12 @@ Click the "Details" button on the BlueLiteBlock extension widget
 
 ![](extension_details.png)
 
-Ensure the `*://*.twitter.com/*` permission is enabled (blue)
+Ensure the `*://*.x.com/*` permission is enabled (blue)
 
 ![](enable_permissions.png)
 
 ### Configure the settings
-If you wish to change any settings, simply navigate to twitter.com and click the puzzle icon in to top right corner, followed by the extension icon.
+If you wish to change any settings, simply navigate to x.com and click the puzzle icon in to top right corner, followed by the extension icon.
 
 This will open the configuration page.
 

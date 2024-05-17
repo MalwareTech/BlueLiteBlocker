@@ -41,7 +41,7 @@
 
   "content_scripts": [
     {
-      "matches": ["*://*.twitter.com/*"],
+      "matches": ["*://*.x.com/*"],
       "run_at": "document_start",
       "js": ["injector.js"]
     }
